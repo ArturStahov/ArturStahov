@@ -1,7 +1,7 @@
 ### Hi there 👋-  I’m currently learning JavaScript
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArturStahov&show_icons=true&theme=merko)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArturStahov&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArturStahov&repo=github-readme-stats)](https://github.com/ArturStahov/github-readme-stats)
 
 <!--
 **ArturStahov/ArturStahov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
