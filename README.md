@@ -1,5 +1,6 @@
 ### Hi there 👋-  I’m currently learning JavaScript
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArturStahov&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturStahov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
