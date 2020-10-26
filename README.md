@@ -1,6 +1,6 @@
 ### Hey, nice to see you 👋
 Welcome to my page.
-I'm Artur - Front-end developer from Ukrainian
+I'm Artur - Front-end developer from Ukraine
 
 ### My stack and tools:
 
